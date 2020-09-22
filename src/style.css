@@ -1,0 +1,35 @@
+.menuButton {
+  -fx-background-color: rgb(0, 90, 0);
+  -fx-stroke: black;
+  -fx-text-fill: rgb(255, 255, 255);
+
+}
+
+.mainMenuPanel {
+  -fx-background-color: linear-gradient(rgb(0, 0, 0),rgb(0, 255, 128), rgb(0, 0, 0));
+}
+
+.table-row-cell {
+  -fx-background-color: rgb(0, 50, 0);
+  -fx-color: rgb(255, 255, 255);
+}
+
+.tableColumn {
+  -fx-text-fill: rgb(255,255,255);
+
+}
+
+.column-header-background {
+  -fx-color: rgb(0, 90, 0);
+
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.table-row-cell{
+-fx-border-color: rgb(0, 90, 0);
+-fx-table-cell-border-color:rgb(0, 90, 0);
+}
